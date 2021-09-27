@@ -1,0 +1,1 @@
+{"ast":null,"code":"var red = '#ff6666';\nexport { red };","map":{"version":3,"sources":["/home/nikaum/Projects/ifood-clone/src/utils/colors.js"],"names":["red"],"mappings":"AAAA,IAAMA,GAAG,GAAG,SAAZ;AAEA,SAASA,GAAT","sourcesContent":["const red = '#ff6666';\n\nexport { red };\n"]},"metadata":{},"sourceType":"module"}

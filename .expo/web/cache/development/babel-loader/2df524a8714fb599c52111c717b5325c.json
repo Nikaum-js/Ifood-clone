@@ -1,0 +1,1 @@
+{"ast":null,"code":"","map":{"version":3,"sources":[],"names":[],"mappings":"","sourcesContent":["/* import React from 'react';\n\nimport { Container } from './styles';\n\nexport default function PrevRequests() {\n  return <Container />;\n}\n\nPrevRequests.navigationOptions = {\n  title: 'ANTERIORES',\n};\n */\n"]},"metadata":{},"sourceType":"script"}

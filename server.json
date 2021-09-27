@@ -1,0 +1,254 @@
+{
+  "profile": {
+    "name": "Nikolas Santana",
+    "avatar_url": "https://cdn.imgbin.com/25/15/2/imgbin-computer-icons-avatar-social-media-blog-font-awesome-avatar-X2JH6eX8zi1J01W8VN1gyhW6B.jpg"
+  },
+   "categories": [
+    {
+      "id": 1,
+      "title": "Brasileira",
+      "categorie_url": "https://dicasdaflorida.com.br/wp-content/uploads/2014/07/comida-brasileira-restaurante-brasileiro.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Saudável",
+      "categorie_url": "https://pagoquandopuder.com.br/wp-content/uploads/2019/09/Comida-saud%C3%A1vel-n%C3%A3o-%C3%A9-mais-cara-740x493.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Lanches",
+      "categorie_url": "https://img.stpu.com.br/?img=https://s3.amazonaws.com/pu-mgr/default/a0R0f00000zTEo1EAG/5b3a7b01e4b0f1518ff176df.jpg&w=710&h=462"
+    },
+    {
+      "id": 4,
+      "title": "Carnes",
+      "categorie_url": "https://supermercadosrondon.com.br/guiadecarnes/images/postagens/as_7_melhores_carnes_para_churrasco_21-05-2019.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Italiana",
+      "categorie_url": "http://www.infohoje.com.br/wp-content/uploads/2014/06/culinaria-italiana.png"
+    },
+    {
+      "id": 6,
+      "title": "Pizza",
+      "categorie_url": "https://i.catracalivre.com.br/a_J8TcUGc8DgQKYpalBcY5EA2fc=/https%3A%2F%2Fcatracalivre.com.br%2Fwp-content%2Fuploads%2F2012%2F09%2Frodizio-pizza-e1347417630118.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Japonesa",
+      "categorie_url": "https://www.saboravida.com.br/wp-content/uploads/2019/07/conheca-os-beneficios-da-culinaria-japonesa.jpg"
+    },
+    {
+      "id": 8,
+      "title": "Doces & Bolos",
+      "categorie_url": "https://www.revide.com.br/media/cache/27/45/2745cbacf166e7c55278396858c1466b.jpg"
+    },
+    {
+      "id": 9,
+      "title": "Bebidas",
+      "categorie_url": "https://p2.trrsf.com/image/fget/cf/460/0/images.terra.com/2018/10/05/cerveja-engorda.jpg"
+    },
+    {
+      "id": 10,
+      "title": "Salgados",
+      "categorie_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1stncwll-_pPusvZ1gP1YmqiVwY3WLT-nQh02okhh1BHRs3ARvA&s"
+    },
+    {
+      "id": 11,
+      "title": "Congelados",
+      "categorie_url": "https://i1.wp.com/frimaca.com/wp-content/uploads/2017/05/Mauro-Libi-Crestani-dieta-facil-alimentos-congelados.jpg?fit=700%2C394&ssl=1"
+    },
+    {
+      "id": 12,
+      "title": "Marmitas",
+      "categorie_url": "https://media-cdn.tripadvisor.com/media/photo-s/0f/48/0c/af/marmita-executiva.jpg"
+    }
+  ],
+  "restaurants": [
+    {
+      "id": 1,
+      "restaurant_url": "https://static-images.ifood.com.br/image/upload/f_auto,t_high/logosgde/201801241007_74ed657c-ff28-4357-b6b2-30c53390b5db.jpg",
+      "title": "Habibs",
+      "star": "",
+      "categories": [
+        "Esfihas & Pizza"
+      ],
+      "delay": "30-60 min",
+      "distance": "35 km"
+    },
+    {
+      "id": 2,
+      "restaurant_url": "https://d701vexhkz032.cloudfront.net/bundles/front/media/images/favicons/favicon-512.png",
+      "title": "McDonalds's",
+      "star": 4.5,
+      "categories": [
+        "Esfihas & Pizza"
+      ],
+      "delay": "10-20 min",
+      "distance": "10.0 km"
+    },
+    {
+      "id": 3,
+      "restaurant_url": "https://pbs.twimg.com/profile_images/1146068149445332993/x_RXPQKj.png",
+      "title": "Burguer King",
+      "star": 4.6,
+      "categories": [
+        "Lanches"
+      ],
+      "delay": "60-120 min",
+      "distance": "8.2 km"
+    },
+    {
+      "id": 4,
+      "restaurant_url": "https://clipartart.com/images/dominos-logo-clipart-5.png",
+      "title": "Dominus",
+      "star": 3.7,
+      "categories": [
+        "Pizzas"
+      ],
+      "delay": "45-75 min",
+      "distance": "120 km"
+    },
+    {
+      "id": 5,
+      "restaurant_url": "http://www.sergel.com.br/images/logo-rodape1.png",
+      "title": "Sergel",
+      "star": 5,
+      "categories": [
+        "Sorvetes"
+      ],
+      "delay": "5-25 min",
+      "distance": "5 km"
+    }
+  ],
+  "suggestions": [
+    {
+      "id": 1,
+      "title": "Bebidas",
+      "sugg_url": "https://p2.trrsf.com/image/fget/cf/460/0/images.terra.com/2019/10/21/pina-colada.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Promoções",
+      "sugg_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8BsQ0ZcDXQTHBz0SZrFLmppiHkYK0KSGx97bF2Tpz0FFP_wsqHA&s"
+    },
+    {
+      "id": 3,
+      "title": "Café & Padaria",
+      "sugg_url": "http://famagusta-gazette.com/wp-content/uploads/2019/08/coffee-cafe.png"
+    },
+    {
+      "id": 4,
+      "title": "Doces",
+      "sugg_url": "https://images.immediate.co.uk/production/volatile/sites/2/2019/04/Choc-Fudge-Cake-b2d1909.jpg?quality=45&resize=620,413"
+    },
+    {
+      "id": 5,
+      "title": "Doação",
+      "sugg_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1FlDyLkEvvGLM-mu_WkRNzRpiMYq19YOfK7P4siZdMTyCBqjL&s"
+    }
+  ],
+  "promotions": [
+    {
+      "id": 1,
+      "categorie": "PROMOÇÕES POR R$4,99",
+      "title": "Promos 4,99",
+      "promo_url": "https://static-images.ifood.com.br/image/upload/f_auto,t_high/discoveries/ifood-capas-tudo-por-10-reais.png",
+      "menu_url": "https://i.ibb.co/Fx6fbCF/Frame-1-1.png"
+    },
+    {
+      "id": 2,
+      "categorie": "OS MELHORES DO IFOOD",
+      "title": "Restaurants",
+      "promo_url": "https://static-images.ifood.com.br/image/upload/f_auto,t_high/discoveries/ifood-capas-novas-super-restaurantes2.jpg",
+      "menu_url": "https://i.ibb.co/6bzPd9H/Frame-2.png"
+    },
+    {
+      "id": 3,
+      "categorie": "JANTAR IFOOD",
+      "title": "Ifood Selection",
+      "promo_url": "https://static-images.ifood.com.br/image/upload/f_auto,t_high/discoveries/ifood-capas-novas-jantar10-2.jpg",
+      "menu_url": "https://i.ibb.co/bJpf9K5/Group-2.png"
+    },
+    {
+      "id": 4,
+      "categorie": "TAXA NA FAIXA",
+      "title": "Free delivery",
+      "promo_url": "https://static-images.ifood.com.br/image/upload/f_auto,t_high/discoveries/ifood-capas-novas-taxa-gratis.jpg",
+      "menu_url": "https://i.ibb.co/qrgG2QJ/Group-4.png"
+    }
+  ],
+  "offers": [
+    {
+      "id": 1,
+      "title": "Burguer costela especial",
+      "offer_url": "https://img.stpu.com.br/?img=https://s3.amazonaws.com/pu-mgr/default/a0R0f00001Dp1W5EAJ/5d65947fe4b07e6da24077ad.jpg&w=710&h=462",
+      "price": 18.90,
+      "newPrice": 15.50,
+      "ingredients": "Ingredientes frescos",
+      "delivery": "Burguer King Delivery",
+      "delay": "50-60 min",
+      "icon": "store"
+    },
+    {
+      "id": 2,
+      "title": "Pizza italiana especial",
+      "offer_url": "https://georgespizzasteakhouse.files.wordpress.com/2013/03/chicken_fajita_lr-1.jpg",
+      "price": 18.90,
+      "newPrice": 12.30,
+      "ingredients": "Massa tradicional",
+      "delivery": "Pizzaria Italia",
+      "delay": "35-70 min",
+      "icon": "store"
+    },
+    {
+      "id": 3,
+      "title": "Combo hambumber, batata e milkshake ",
+      "offer_url": "https://i2-prod.birminghammail.co.uk/incoming/article16101897.ece/ALTERNATES/s615/6_McDonalds-main-image.jpg",
+      "price": 36.90,
+      "newPrice": 25.70,
+      "ingredients": "Batata frita na hora",
+      "delivery": "Batatas & Burguers",
+      "delay": "15-70 min",
+      "icon": "store"
+    },
+    {
+      "id": 4,
+      "title": "Picanha na brasa",
+      "offer_url": "https://p2.trrsf.com/image/fget/cf/940/0/images.terra.com/2018/06/19/carne-churrasco.jpg",
+      "price": 25.90,
+      "newPrice": 18.20,
+      "ingredients": "Carne assada na hora",
+      "delivery": "Churrascaria Brasileira",
+      "delay": "120-200 min",
+      "icon": "store"
+    }
+  ],
+  "purchases": [
+    {
+      "id": 1,
+      "date": "Seg - 20 de janeiro de 2020",
+      "restaurant_name": "McDonalds's - Avenida Brasil",
+      "restaurant_url": "https://d701vexhkz032.cloudfront.net/bundles/front/media/images/favicons/favicon-512.png",
+      "order_number": 7854,
+      "order": "1 McChicken por R$23,90"
+    },
+    {
+      "id": 2,
+      "date": "Sex - 29 de novembro de 2019",
+      "restaurant_name": "Habibs - Shopping Dom Pedro",
+      "restaurant_url": "https://static-images.ifood.com.br/image/upload/f_auto,t_high/logosgde/201801241007_74ed657c-ff28-4357-b6b2-30c53390b5db.jpg",
+      "order_number": 10700,
+      "order": "15 Bib'sfiha de carne por R$0,79"
+    },
+    {
+      "id": 3,
+      "date": "Sab - 15 de setembro de 2019",
+      "restaurant_name": "Burguer King - Avenida Brasil",
+      "restaurant_url": "https://logospng.org/wp-content/uploads/burger-king.png",
+      "order_number": 6302,
+      "order": "2 Clássicos por R$4,90"
+    }
+  ]
+}
